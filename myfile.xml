@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<avventura>
+    <scena tipo="scelta">
+        <id>0001</id>
+        <descrizione>scena1</descrizione>
+        <introduzione>intro</introduzione>
+        <opzione>0002</opzione>
+        <opzione>0004</opzione>
+    </scena>
+    <scena tipo="descrizione>
+        <id>0002</id>
+        <descrizione>scena2</descrizione>
+    </scena>
+    <scena tipo="scelta">
+        <id>0003</id>
+        <descrizione>scena3</descrizione>
+        <introduzione>intro</introduzione>
+        <opzione>0001</opzione>
+        <opzione>0002</opzione>
+        <opzione>0005</opzione>
+    </scena>
+    <scena tipo="scelta">
+        <id>0004</id>
+        <descrizione>scena4</descrizione>
+        <introduzione>intro</introduzione>
+        <opzione>0003</opzione>
+        <opzione>0005</opzione>
+    </scena>
+    <scena tipo="descrizione">
+        <id>0005</id>
+        <descrizione>scena5finale</descrizione>
+    </scena>
+</avventura>
+
